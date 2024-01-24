@@ -1,0 +1,1 @@
+/usr/bin/cmake -S/home/emre/mtlb_deneme/src/mtlb_publisher -B/home/emre/mtlb_deneme/build/mtlb_publisher --check-build-system CMakeFiles/Makefile.cmake 0

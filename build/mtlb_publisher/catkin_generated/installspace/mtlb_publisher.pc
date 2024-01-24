@@ -1,0 +1,8 @@
+prefix=/home/emre/mtlb_deneme/install
+
+Name: mtlb_publisher
+Description: Description of mtlb_publisher
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp std_msgs

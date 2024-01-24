@@ -1,0 +1,1 @@
+/home/emre/mtlb_deneme/devel/.private/catkin_tools_prebuild/local_setup.bash

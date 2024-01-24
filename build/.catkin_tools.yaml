@@ -1,0 +1,6 @@
+devel_space: /home/emre/mtlb_deneme/devel
+install: false
+install_space: /home/emre/mtlb_deneme/install
+profile: default
+source_space: /home/emre/mtlb_deneme/src
+workspace: /home/emre/mtlb_deneme

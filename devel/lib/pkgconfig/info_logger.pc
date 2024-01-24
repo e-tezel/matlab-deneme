@@ -1,0 +1,1 @@
+/home/emre/mtlb_deneme/devel/.private/info_logger/lib/pkgconfig/info_logger.pc
